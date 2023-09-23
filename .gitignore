@@ -1,0 +1,21 @@
+node_modules/
+package-lock.json
+dist/
+
+
+# Ignore editor and IDE files
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# Ignore environment configuration files
+.env
+
+# Ignore system and hidden files
+Thumbs.db
+.DS_Store
+
+# Ignore user-specific npm and Yarn configuration files
+.npmrc
+.yarnrc
